@@ -1,19 +1,44 @@
 ---
 title: Hello World
-description: Welcome to Hugo Theme Stack
+description: 博客的第一篇文章
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2026-06-12T00:00:00+08:00
 categories:
-    - 我信你个鬼
+    - 随笔
 tags:
-    - Example Tag
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+    - Hugo
+    - 建站
+weight: 1
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+# Hello World
 
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
+折腾了这么久，博客总算搭起来了。
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+这些年陆陆续续写过论坛、贴吧、QQ 空间、微信公众号，也搭过各种网站。每次开始的时候，总想着认真记录点什么；每次过一阵子，又因为忙碌或者懒惰停更。
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+这一次，决定重新开始。
+
+这里会记录一些工作中的见闻、技术折腾的过程，以及生活中的琐碎想法。
+
+可能会有：
+
+- Hugo 建站和主题折腾
+- Cloudflare、DNS 和各种网络服务
+- Linux、Windows 以及一些奇怪的问题排查
+- 编程和自动化脚本
+- 偶尔写写生活和回忆
+
+我出生在福建沿海的一个小渔村，从拨号上网的年代一路走来，见证了互联网这些年的变化。如今再搭一个属于自己的小站，多少有点回到最初接触网络时的感觉。
+
+互联网变化很快，很多内容转瞬即逝。
+
+希望这个小站能留下些值得回头看的东西。
+
+如果你偶然来到这里，欢迎随便看看。
+
+---
+
+> Hello World.
+>
+> Every journey starts with a first post.
