@@ -8,7 +8,6 @@ categories:
 tags:
     - Hugo
     - 建站
-weight: 1
 ---
 
 # Hello World
