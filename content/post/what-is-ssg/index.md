@@ -10,8 +10,7 @@ lastmod = 2026-06-13T00:00:00+08:00
 draft = false
 
 categories = [
-"Hugo",
-"入门"
+"互联网世界"
 ]
 
 tags = [
